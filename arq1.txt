@@ -1,2 +1,6 @@
 djbdj ddj  conteúdo do arquivo 01
+
+conteúdo do arquivo 01
 nova linha do arquivo 01
+
+arquivo modificado para demonstrar o stash
